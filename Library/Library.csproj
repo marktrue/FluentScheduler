@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\XmlConfigurator.cs" />
     <Compile Include="Extension\DelayForExtensions.cs" />
     <Compile Include="Unit\IDayRestrictableUnit.cs" />
     <Compile Include="Unit\ITimeRestrictableUnit.cs" />
